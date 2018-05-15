@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="auto-parts-data-import:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="auto-parts-data-import.war">
+      <element id="artifact" artifact-name="auto-parts-data-import:war exploded" />
+    </root>
+  </artifact>
+</component>
